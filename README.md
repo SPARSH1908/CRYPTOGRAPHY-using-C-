@@ -7,13 +7,12 @@ in such a way that only the intended receiver can read it by knowing the method 
 
 PROGRAM SPECIFICATION:
 1) Using the techniques presented during this semester to create a complete C++ program to emulate an Encryption/Decryption Machine.
-
 The program will be capable of the following:
-    ➢ Encrypt a file provided by the user
-    ➢ Choose between two different encryption methods
-    ➢ Decrypt a file by the user
-    ➢ Choose between two different decryptions methods
-    ➢ Decrypt without knowing the encryption method
+--> Encrypt a file provided by the user
+--> Choose between two different encryption methods
+--> Decrypt a file by the user
+--> Choose between two different decryptions methods
+--> Decrypt without knowing the encryption method
 2) The interface must be professional and fully intuitive to the user
 3) The program will be menu driven.
 4) The program will use a function(s) to define and implement each of the methods and store the original file and the encrypted/decrypted file.
